@@ -29,4 +29,4 @@ Para mais informações dos trabalhos feitos por mim:
 [clique aqui](bukaapp.com)
 
 # Imagens   
-![Imagem de um logotipo](C:\AndroidProjects\MyFristApp\Imagem1.png)
+![Imagem de um logotipo](/C:/AndroidProjects\MyFristApp\Imagem1.png)
